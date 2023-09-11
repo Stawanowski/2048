@@ -1,5 +1,5 @@
 <h1>2048 in Nextjs and NodeJs</h1>
-[Check it out live.] (http://2048.mszadkowski.cfd))
+[Check it out live.](http://2048.mszadkowski.cfd)
 <p>
   <h4>
     Controls:
