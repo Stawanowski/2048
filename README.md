@@ -1,5 +1,5 @@
 <h1>2048 in Nextjs and NodeJs</h1>
-<a href="http://2048.mszadkowski.cfd">Check it out live.</a>
+[Check it out live.]([https://www.quora.com](http://2048.mszadkowski.cfd))
 <p>
   <h4>
     Controls:
