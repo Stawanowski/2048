@@ -1,4 +1,5 @@
 <h1>2048 in Nextjs and NodeJs</h1>
+<a href="2048.mszadkowski.cfd">Check it out live.</a>
 <p>
   <h4>
     Controls:
